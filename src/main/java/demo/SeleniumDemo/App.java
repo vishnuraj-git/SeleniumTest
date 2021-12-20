@@ -32,7 +32,5 @@ public class App
 
         System.out.println( "completed from git2!" );
 
-
-        System.out.println( "completed from git3!" );
     }
 }
