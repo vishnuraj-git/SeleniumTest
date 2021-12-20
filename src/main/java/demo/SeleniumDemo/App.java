@@ -26,7 +26,7 @@ public class App
 			
 
         System.out.println( "completed!" );
-        System.out.println( "completed from git!" );
+        System.out.println( "completed from git2!" );
 
     }
 }
