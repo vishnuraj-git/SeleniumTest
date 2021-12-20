@@ -24,6 +24,6 @@ public class App
         driver.findElement(By.xpath("//input[@name='q']")).sendKeys(Keys.RETURN);
        // driver.findElement(By.xpath("//input[@name='q']")).sendKeys(Keys.ENTER);
 			
-		
+        System.out.println( "completed!" );
     }
 }
